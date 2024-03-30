@@ -1,0 +1,18 @@
+.aboutMe {
+  margin: 0 auto;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.personalDetails p {
+  margin: 5px 0;
+}
+
+.professionalSnapshot,
+.certifications,
+.languageProficiency,
+.contact {
+  max-width: 300px;
+}
